@@ -5,6 +5,8 @@
 - redis端口：6379
 - 登录路径： http://localhost:8090/authenticate
 
+GitHub地址：https://github.com/ad-gap/myFirstProject
+
 
 ## 数据建库语句
 
